@@ -37,10 +37,28 @@ git clone https://github.com/kryptt0/TrackIP
 ```bash
 cd TrackIP
 ```
-## Change into track-ip
+## Install Crips 
+
 ```bash
-cd track-ip
+./install.sh 
 ```
+
+## Permissions 
+
+```bash
+chmod ugo+rwx trackip
+```
+
+## FINISHED INSTALL
+## FINISHED INSTALL
+
+
+## Run Crips multitool 
+
+```bash
+python3 crips.py
+```
+
 ## Run the trackip tool
 
 ```bash
