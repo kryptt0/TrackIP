@@ -56,7 +56,7 @@ chmod ugo+rwx trackip
 ## Run Crips multitool 
 
 ```bash
-python3 crips.py
+python2 crips.py
 ```
 
 ## Run the trackip tool
