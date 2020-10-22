@@ -7,9 +7,11 @@
 
 # Compatibility
 
-- Ubuntu 18.04.1 (Tested)
+- Ubuntu 20.20 LTS (Tested)
 
-- Kali Linux 2019.4 (Tested)
+- Parrot OS 4.10 (Tested)
+
+- Kali Linux 2020.3 (Tested)
 
 - Termux (Tested)
 
