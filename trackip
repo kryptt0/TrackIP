@@ -23,7 +23,7 @@ menu() {
 printf "\e[0m\n"
 printf "\e[0m\e[1;31m  [\e[0m\e[1;37m01\e[0m\e[1;31m]\e[0m\e[1;33m Mi IP\e[0m\n"
 printf "\e[0m\e[1;31m  [\e[0m\e[1;37m02\e[0m\e[1;31m]\e[0m\e[1;33m Trackear Ip\e[0m\n"
-printf "\e[0m\e[1;31m  [\e[0m\e[1;37m03\e[0m\e[1;31m]\e[0m\e[1;33m E L   P E P E\e[0m\n"
+printf "\e[0m\e[1;31m  [\e[0m\e[1;37m03\e[0m\e[1;31m]\e[0m\e[1;33m ETE SECH\e[0m\n"
 printf "\e[0m\e[1;31m  [\e[0m\e[1;37m00\e[0m\e[1;31m]\e[0m\e[1;33m Salir\e[0m\n"
 printf "\e[0m\n"
 read -p $'  \e[1;31m[\e[0m\e[1;37m~\e[0m\e[1;31m]\e[0m\e[1;92m Selecciona la option \e[0m\e[1;96m: \e[0m\e[1;93m\en' option
